@@ -12,7 +12,7 @@ sh scripts/setup.sh
 
 詳細は[CLAUDE.md](CLAUDE.md)をご覧ください。
 
-このテンプレートは[discus0434/python-template-for-claude-code](https://github.com/discus0434/python-template-for-claude-code)を基に作成されました。
+このテンプレートは[jiroshimaya/python-template-for-ai-assistant](https://github.com/jiroshimaya/python-template-for-ai-assistant)を基に作成されました。
 有益なリポジトリを公開いただき感謝します。
 
 ## 📄 ライセンス
